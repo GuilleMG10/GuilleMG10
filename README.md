@@ -40,9 +40,9 @@ Smaller facts about me:
 </p>
 **🤖 AI Developer Tools:**
 <p align="left">
-  <img src="https://cdn.simpleicons.org/anthropic" alt="claude" width="35" height="35" title="Claude Code (Anthropic)"/>
+  <img src="https://cdn.simpleicons.org/anthropic/white" alt="claude" width="35" height="35" title="Claude Code (Anthropic)"/>
   <img src="https://cdn.simpleicons.org/googlegemini" alt="gemini" width="35" height="35" title="Gemini Pro"/>
-  <img src="https://cdn.simpleicons.org/openai" alt="chatgpt" width="35" height="35" title="ChatGPT (OpenAI)"/>
+  <img src="https://cdn.simpleicons.org/openai/white" alt="chatgpt" width="35" height="35" title="ChatGPT (OpenAI)"/>
 </p>
 
 * Utilized as advanced analytical assistants to accelerate workflows, optimize architectural design, and automate repetitive tasks without relying on them as coding shortcuts.
