@@ -38,6 +38,13 @@ Smaller facts about me:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40" title="Docker"/>
 </p>
+**🤖 AI Developer Tools:**
+<p align="left">
+  <img src="https://cdn.simpleicons.org/anthropic" alt="claude" width="35" height="35" title="Claude Code (Anthropic)"/>
+  <img src="https://cdn.simpleicons.org/googlegemini" alt="gemini" width="35" height="35" title="Gemini Pro"/>
+  <img src="https://cdn.simpleicons.org/openai" alt="chatgpt" width="35" height="35" title="ChatGPT (OpenAI)"/>
+</p>
 
+* Utilized as advanced analytical assistants to accelerate workflows, optimize architectural design, and automate repetitive tasks without relying on them as coding shortcuts.
 ### 🏗️ Architecture & Core Concepts:
 Clean Architecture • SOLID • System Design • JWT • Role-Based Access Control (RBAC) • Microservices • CI/CD
