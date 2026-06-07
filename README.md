@@ -20,7 +20,7 @@ Smaller facts about me:
 
 * **Cost Management System:** Microservices-based full-stack platform (NestJS, Next.js, PostgreSQL) applying Clean Architecture and SOLID principles. (Undergraduate Thesis - Scored 100/100).
 * **ACS Bolivia Web Platform:** Official platform for the American College of Surgeons chapter, featuring a high-traffic landing page and a secure RBAC admin panel.
-* **Coninarde Construction ERP:** Centralized REST API for tracking projects, budgets, and materials across active construction sites with CI/CD deployment.
+* **Construction ERP:** Centralized REST API for tracking projects, budgets, and materials across active construction sites with CI/CD deployment.
 * **Gym Management Software:** Custom REST API tailored for daily gym operations, handling membership lifecycles and payment control.
 * **Clinic Admin System:** Secure administrative backend managing clinical appointments and detailed patient records.
 
